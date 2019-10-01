@@ -2,5 +2,5 @@ Django==1.9.4
 django-environ==0.4.0
 django-rosetta==0.7.8
 microsofttranslator==0.7
-polib==1.0.7
+polib==1.1.0
 six==1.10.0
